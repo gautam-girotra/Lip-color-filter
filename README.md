@@ -1,4 +1,4 @@
-# Lip-filter
+# Lip-color filter
 Using **OpenCV**, face landmark detection is done followed by applying a filter to the nose.
 First I perform face detection using the **dlib library's detector** .
 Then I perform landmark detection using **shape_predictor** with a .dat file that gives 68 landmarks.
